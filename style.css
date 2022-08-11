@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgb(39, 71, 53);
+    color: whitesmoke;
+    font-size: 56px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    position: relative;
+    top: 20px;
+    left: 700px;
+}
+.title {
+    text-align: center;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    text-align: center;
+}
